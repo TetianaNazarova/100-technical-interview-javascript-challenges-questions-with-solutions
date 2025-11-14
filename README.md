@@ -7,3 +7,5 @@ JavaScript Interview Coding Challenges Basics
 6. Flatten a nested array [1, [2, [3]]] → [1,2,3] JavaScript Interview Coding Challenge https://weblearn.my/flatten-a-nested-array-1-2-3-%e2%86%92-123%e2%9c%85-javascript-interview-coding-challenge/
 7. Find the second largest number in an array https://weblearn.my/javascript-interview-coding-challenge%e2%9c%85-find-the-second-largest-number-in-an-array/
 8. JavaScript Interview Coding Challenge🧠: Sort Numbers in Ascending and Descending Order https://weblearn.my/javascript-interview-coding-challenge%f0%9f%a7%a0-sort-numbers-in-ascending-and-descending-order/
+9. ✅ JavaScript Interview Coding Challenge — Implement Your Own Version of Array.prototype.map() https://weblearn.my/%e2%9c%85-javascript-interview-coding-challenge-implement-your-own-version-of-array-prototype-map/
+10. Implement Array.prototype.filter() Manually: A Complete Deep-Dive, Theory, Practice, and Interview-Ready Guide https://weblearn.my/implement-array-prototype-filter-manually-a-complete-deep-dive-theory-practice-and-interview-ready-guide/
